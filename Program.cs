@@ -7,7 +7,6 @@ class Program
         /*
                   * Consigne générale : faites un commit entre chaque étape !
                   */
-
         // Etape 1 : faire un compteur qui va de 1 à 10
         for (int i = 1; i <= 10; i++)
         {
